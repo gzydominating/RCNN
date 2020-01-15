@@ -18,7 +18,7 @@
 
 4. alexnet_test.py : test for cnn model
 
-5. preprocessing_RCNN.py : some preproces
+5. preprocessing.py : some preprocess
 
 6. rp2file.py : save region proposal images to disk
 
